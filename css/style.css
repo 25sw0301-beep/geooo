@@ -12,6 +12,7 @@
 
 /* ═══ 0. 초기화 ▸ 완성본 ═════════════════════════════════════ */
 
+/* ✅ 올바른 코드 (수정 후) */
 * { box-sizing: border-box; }
 
 body, h1, h2, h3, p, ul, dl, dd, figure { margin: 0; padding: 0; }
